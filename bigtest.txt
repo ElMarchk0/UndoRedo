@@ -1,0 +1,50 @@
+REDO
+copy text
+copy text
+REDO
+typing
+UNDO
+bold
+REDO
+typing
+REDO
+typing
+typing
+auto format
+typing
+auto format
+REDO
+REDO
+copy text
+typing
+auto format
+copy text
+typing
+copy text
+REDO
+typing
+UNDO
+copy text
+bold
+bold
+UNDO
+typing
+bold
+auto format
+typing
+italic
+REDO
+auto format
+bold
+bold
+bold
+auto format
+copy text
+bold
+REDO
+typing
+auto format
+copy text
+REDO
+auto format
+REDO
